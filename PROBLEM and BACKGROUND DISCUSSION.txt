@@ -1,0 +1,7 @@
+PROBLEM and BACKGROUND DISCUSSION
+
+Problem - The aim of the project is to predict the severity of a road accident using various attributes given such as road condition, car speed etc.
+
+Background Discussion - We have a dataset of Seattle's car accidents provided by SPD. It has many attributes and we need to find those which have effect on severity of accident. Further, using these attributes, and there contribution to the severity we need to develop a model to predict severity of any future accident.
+
+This can be used by authorities such highway patroling or by hospitals to strategically place ambulance. Further, it can also be used by public to plan their drive accordingly.
